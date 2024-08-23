@@ -1,0 +1,16 @@
+{
+  "name": "Metadata Aeon Bot",
+  "description": "Aeon",
+  "keywords": [
+    "Metadata"
+  ],
+  "repository": "https://GitHub.com/",
+  "stack": "container",
+  "env": {
+    "API_ID": {
+      "description": "Your APP ID From my.telegram.org ",
+      "value": "",
+      "required": false
+    }
+  }
+}
